@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="divBeers">
+
+</div>
+
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script>
+    var connection;
+
+    connection = new signalR.HubConnectionBuilder().withUrl("/beerHub").build();
+
+    connection.start().then(function () {
+        console.log("Successful connection");
+    }).catch(function (err) {
+        console.log(err);
+    });
+
+    connection.on("Receive", function (name, brand) {
+        var divBeers;
+        var divBeer;
+
+        divBeer = document.createElement("div");
+        divBeer.textContent = name + " " + brand;
+        divBeers = document.getElementById("divBeers");
+        divBeers.appendChild(divBeer);
+    });
+</script>
