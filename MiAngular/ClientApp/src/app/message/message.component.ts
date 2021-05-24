@@ -1,3 +1,4 @@
+import { Message } from '@angular/compiler/src/i18n/i18n_ast';
 import { Component, Input } from '@angular/core';
 
 @Component({
@@ -6,5 +7,11 @@ import { Component, Input } from '@angular/core';
 })
 
 export class MessageComponent {
-  @Input() texto: string;
+  @Input() oMessage: Message;
+}
+
+interface Message {
+  Id: number,
+  Name: string,
+  Text: string
 }

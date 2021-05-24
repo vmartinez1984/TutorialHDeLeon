@@ -4,6 +4,8 @@
 <input type="button" (click)="cambiarNombre();" value="Cambiar nombre"/>
 
 <hr/>
-<app-message *ngFor="let item of listaDeMensajes" [texto]="item">
+<app-message *ngFor="let item of listaDeMensajes" [oMessage]="item">
  
 </app-message>
+
+{{chatService.algo}}
