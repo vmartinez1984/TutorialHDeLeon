@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vmartinez\\source\\repos\\TutorialHdLeon\\TutorialHdLeon\\SignalAR.csproj",
+      "projectUniqueName": "C:\\Users\\vmartinez\\Source\\Repos\\TutorialHDeLeon\\TutorialHdLeon\\SignalAR.csproj",
       "projectName": "SignalAR",
-      "projectPath": "C:\\Users\\vmartinez\\source\\repos\\TutorialHdLeon\\TutorialHdLeon\\SignalAR.csproj",
+      "projectPath": "C:\\Users\\vmartinez\\Source\\Repos\\TutorialHDeLeon\\TutorialHdLeon\\SignalAR.csproj",
       "packagesPath": "C:\\Users\\vmartinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vmartinez\\source\\repos\\TutorialHdLeon\\TutorialHdLeon\\obj\\",
+      "outputPath": "C:\\Users\\vmartinez\\Source\\Repos\\TutorialHDeLeon\\TutorialHdLeon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vmartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

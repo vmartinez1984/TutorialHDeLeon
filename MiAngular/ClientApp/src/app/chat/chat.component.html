@@ -1,0 +1,9 @@
+<div>
+  Hola {{nombre}}
+</div>
+<input type="button" (click)="cambiarNombre();" value="Cambiar nombre"/>
+
+<hr/>
+<app-message *ngFor="let item of listaDeMensajes" [texto]="item">
+ 
+</app-message>
