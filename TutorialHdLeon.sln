@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalAR", "TutorialHdLeon\SignalAR.csproj", "{3EB97C0E-B3F4-4874-A3D5-A75E2D41FA62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiAngular", "MiAngular\MiAngular.csproj", "{BF5B22E7-E21E-4BCC-9C36-D2A03FF5CCBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiAngular", "MiAngular\MiAngular.csproj", "{BF5B22E7-E21E-4BCC-9C36-D2A03FF5CCBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiAngular21", "MiAngular21\MiAngular21.csproj", "{7D85FB9E-DA79-4377-81D1-DD1439006A5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiAngular21", "MiAngular21\MiAngular21.csproj", "{7D85FB9E-DA79-4377-81D1-DD1439006A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardarArchivos", "GuardarArchivos\GuardarArchivos.csproj", "{8E0B784F-1189-47B0-8F68-1C68606DE522}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7D85FB9E-DA79-4377-81D1-DD1439006A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D85FB9E-DA79-4377-81D1-DD1439006A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D85FB9E-DA79-4377-81D1-DD1439006A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0B784F-1189-47B0-8F68-1C68606DE522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0B784F-1189-47B0-8F68-1C68606DE522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0B784F-1189-47B0-8F68-1C68606DE522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0B784F-1189-47B0-8F68-1C68606DE522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

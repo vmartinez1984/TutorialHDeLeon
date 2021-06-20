@@ -1,0 +1,35 @@
+﻿@model GuardarArchivos.Models.ArchivoViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div class="text-center">
+            <form asp-controller="Home" asp-action="Upload2" enctype="multipart/form-data" method="post">
+                <dl>
+                    <dt>
+                        <label asp-for="FormFile"></label>                        
+                    </dt>
+                    <dd>
+                        <input asp-for="FormFile" type="file"/>
+                    </dd>
+                    <dt></dt>
+                    <dd>
+                        <input type="submit" value="Subir" />
+                    </dd>
+                </dl>
+            </form>
+            <p>@ViewBag.mensaje</p>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
