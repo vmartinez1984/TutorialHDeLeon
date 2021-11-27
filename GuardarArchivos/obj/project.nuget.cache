@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "y+YGlo9DXINsQ4EXb/N0Zg8VifjIZUMKLTzFhS5d+N8GHnrzNV7Pn6C6M9ZVGQZnRzV7Goy/C3fWn5QwZXreow==",
+  "dgSpecHash": "zhJMv81XPUO0YzTSx78ULAxsySl7QHAFsEwn+9r+k+G85cUWlyPQdzXJYF+LbyONwuF8biJ8Id0tiiEaw3aQRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\GuardarArchivos\\GuardarArchivos.csproj",
   "expectedPackageFiles": [
@@ -114,7 +114,8 @@
     "C:\\Users\\vmartinez\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\vmartinez\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\vmartinez\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\vmartinez\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\vmartinez\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\vmartinez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
   ],
   "logs": []
 }

@@ -381,7 +381,6 @@ C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\ob
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\GuardarArchivos.RazorAssemblyInfo.cache
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\GuardarArchivos.RazorAssemblyInfo.cs
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\staticwebassets\GuardarArchivos.StaticWebAssets.Manifest.cache
-C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\staticwebassets\GuardarArchivos.StaticWebAssets.xml
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\scopedcss\bundle\GuardarArchivos.styles.css
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\GuardarArchivos.TagHelpers.input.cache
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\GuardarArchivos.TagHelpers.output.cache
@@ -401,3 +400,4 @@ C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\ob
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\ref\GuardarArchivos.dll
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\GuardarArchivos.pdb
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\obj\Debug\net5.0\GuardarArchivos.genruntimeconfig.cache
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\GuardarArchivos\bin\Debug\net5.0\GuardarArchivos.StaticWebAssets.xml

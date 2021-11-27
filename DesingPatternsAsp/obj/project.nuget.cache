@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "McyQocRe9ClnIk9lHGGqu0REGXnzIsx6kH8fKHwVo5BxVqERU4kOn2tGOekFiL+VORtc5cutDvoQfosbJxNwgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\DesingPatternsAsp\\DesingPatternsAsp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmartinez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

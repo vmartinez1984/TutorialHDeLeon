@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\DesingPatternsAsp\\DesingPatternsAsp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\DesingPatternsAsp\\DesingPatternsAsp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\DesingPatternsAsp\\DesingPatternsAsp.csproj",
+        "projectName": "DesingPatternsAsp",
+        "projectPath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\DesingPatternsAsp\\DesingPatternsAsp.csproj",
+        "packagesPath": "C:\\Users\\vmartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\DesingPatternsAsp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vmartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\Tools\\Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.11, 5.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\Tools\\Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\Tools\\Tools.csproj",
+        "projectName": "Tools",
+        "projectPath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\vmartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vmartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

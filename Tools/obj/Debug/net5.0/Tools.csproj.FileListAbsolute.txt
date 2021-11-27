@@ -1,0 +1,11 @@
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\bin\Debug\net5.0\Tools.deps.json
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\bin\Debug\net5.0\Tools.dll
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\bin\Debug\net5.0\ref\Tools.dll
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\bin\Debug\net5.0\Tools.pdb
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\obj\Debug\net5.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\obj\Debug\net5.0\Tools.AssemblyInfoInputs.cache
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\obj\Debug\net5.0\Tools.AssemblyInfo.cs
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\obj\Debug\net5.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\obj\Debug\net5.0\Tools.dll
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\obj\Debug\net5.0\ref\Tools.dll
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\Tools\obj\Debug\net5.0\Tools.pdb

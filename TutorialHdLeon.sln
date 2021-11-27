@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31205.134
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31815.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalAR", "TutorialHdLeon\SignalAR.csproj", "{3EB97C0E-B3F4-4874-A3D5-A75E2D41FA62}"
 EndProject
@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiAngular", "MiAngular\MiAn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiAngular21", "MiAngular21\MiAngular21.csproj", "{7D85FB9E-DA79-4377-81D1-DD1439006A5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardarArchivos", "GuardarArchivos\GuardarArchivos.csproj", "{8E0B784F-1189-47B0-8F68-1C68606DE522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuardarArchivos", "GuardarArchivos\GuardarArchivos.csproj", "{8E0B784F-1189-47B0-8F68-1C68606DE522}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PatronesDeDisenio", "PatronesDeDisenio", "{9CBBCA0D-CA40-4B84-9FF6-4210BAEE1DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingPatternsAsp", "DesingPatternsAsp\DesingPatternsAsp.csproj", "{CA3B0FEA-DAF3-438F-8A91-9B9BAD353A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{C01205D8-5291-48EC-9E4C-E96C81642E6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,9 +39,21 @@ Global
 		{8E0B784F-1189-47B0-8F68-1C68606DE522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E0B784F-1189-47B0-8F68-1C68606DE522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E0B784F-1189-47B0-8F68-1C68606DE522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3B0FEA-DAF3-438F-8A91-9B9BAD353A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3B0FEA-DAF3-438F-8A91-9B9BAD353A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3B0FEA-DAF3-438F-8A91-9B9BAD353A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3B0FEA-DAF3-438F-8A91-9B9BAD353A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01205D8-5291-48EC-9E4C-E96C81642E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01205D8-5291-48EC-9E4C-E96C81642E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01205D8-5291-48EC-9E4C-E96C81642E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01205D8-5291-48EC-9E4C-E96C81642E6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA3B0FEA-DAF3-438F-8A91-9B9BAD353A2A} = {9CBBCA0D-CA40-4B84-9FF6-4210BAEE1DFF}
+		{C01205D8-5291-48EC-9E4C-E96C81642E6B} = {9CBBCA0D-CA40-4B84-9FF6-4210BAEE1DFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9DD63C9-EEFD-4AE9-9E14-E3D33C574F83}

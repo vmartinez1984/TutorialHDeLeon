@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IMaS0lfNA1NXzPns8a8WcZTr2NnmyCAS6QESfU+oGTztRv2bKY1VICtCUQK1IdsAtiaPl8wBv91IRTE4JAVrvQ==",
+  "dgSpecHash": "G2YiQNRxjgYWtGv6YBPUQChW7jRLsbSAtO0AtzhjkF9mw4d8DYwwYJoh9xO0ccbXlwdwHB3K75TPskmuxkmmpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\vmartinez\\Source\\Repos\\vmartinez1984\\TutorialHDeLeon\\TutorialHdLeon\\SignalAR.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vmartinez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
   "logs": []
 }
