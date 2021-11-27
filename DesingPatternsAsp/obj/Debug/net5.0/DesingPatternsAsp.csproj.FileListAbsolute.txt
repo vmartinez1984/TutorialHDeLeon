@@ -39,3 +39,4 @@ C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\DesingPatternsAsp\
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\DesingPatternsAsp\obj\Debug\net5.0\ref\DesingPatternsAsp.dll
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\DesingPatternsAsp\obj\Debug\net5.0\DesingPatternsAsp.pdb
 C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\DesingPatternsAsp\obj\Debug\net5.0\DesingPatternsAsp.genruntimeconfig.cache
+C:\Users\vmartinez\Source\Repos\vmartinez1984\TutorialHDeLeon\DesingPatternsAsp\obj\Debug\net5.0\Razor\Views\ProductDetails\Index.cshtml.g.cs
